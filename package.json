@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "convert async web3 functions to promises",
   "main": "index.js",
-  "repository": "git@github.com:cnt0/web3-promisify.git",
+  "repository": "https://github.com/cnt0/web3-promisify.git",
   "author": "cnt0 <sarum9n@gmail.com>",
   "license": "Apache",
   "private": false
